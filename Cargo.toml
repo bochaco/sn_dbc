@@ -15,7 +15,7 @@ ringct-serde = [ "blst_ringct/serde" ]
 
 [dependencies]
 thiserror = "1.0.24"
-blsttc = "5.1.2"
+blsttc = "5.2.0"
 blst_ringct = {git = "https://github.com/maidsafe/blst-ringct"}
 hex = "0.4.3"
 tiny-keccak = {version = "2.0.0", features = [ "sha3" ]}
